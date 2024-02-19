@@ -12,7 +12,11 @@ I'm a passionate software developer with a keen interest in Backend Development.
 - Mail : nilanjanbhattacharya22@gmail.com
 - LinkeIn : https://www.linkedin.com/in/nilanjan-bhattacharya-139539229/
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nbhattacharya08)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nilanjan-bhattacharya-139539229/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/nbhattacharya03)  
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nbhattacharya08&show_icons=true&hide=contribs,prs&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbhattacharya08)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=nbhattacharya08)  
 
 Feel free to explore my repositories and don't hesitate to reach out! Let's code and learn together. 🚀
