@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Nilanjan
 
 I'm a passionate software developer with a keen interest in Backend Development. Currently, I'm in the pre-final year of my CS Engineering course.
 
