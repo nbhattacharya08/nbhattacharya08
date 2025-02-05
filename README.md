@@ -17,6 +17,6 @@ I'm a passionate software developer with a keen interest in Backend Development.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbhattacharya08)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=nbhattacharya08)  
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=nbhattacharya08)](https://git.io/streak-stats)
 
 Feel free to explore my repositories and don't hesitate to reach out! Let's code and learn together. 🚀
